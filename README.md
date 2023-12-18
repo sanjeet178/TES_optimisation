@@ -11,7 +11,7 @@ A numerical model is developed to quantify the influence of graded metal foam on
 
      ![image](https://github.com/sanjeet178/TES_optimisation/assets/69724036/ffc3d873-7de0-41b9-9bb8-20c7c6a4fe2c)
      
-   - Apply Genetic Algorithm to find the optimal value of $\varepsilon_1$, $\varepsilon_2$ and $\varepsilon_3$ such that enhanced heat transfer is achieved. Genetic Algorithm is a global optimiser that can be used to find the Global Extrema of the problem.
+   - Apply Genetic Algorithm to find the optimal value of $\varepsilon_1$, $\varepsilon_2$ and $\varepsilon_3$ such that enhanced heat transfer is achieved. Genetic Algorithm is a global optimiser that can be used to find the Global Extrema of the problem. Tournament Selection, Single -point crossover and Mutation techniques were utilised in the Genetic Algorithm
 
 ## Results
 It can be seen that the the highest heat transfer rate is obtained at $\varepsilon_1$ = 0.93, $\varepsilon_2$ = 0.95 and $\varepsilon_3$ = 0.97 
