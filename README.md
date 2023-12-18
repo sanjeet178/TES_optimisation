@@ -7,8 +7,11 @@ A numerical model is developed to quantify the influence of graded metal foam on
    - Create Numerical model to find the heat transfer rate for various values porosity $\varepsilon_1$, $\varepsilon_2$ and $\varepsilon_3$
      
      ![image](https://github.com/sanjeet178/TES_optimisation/assets/69724036/01e36a3a-3ede-4e78-8c35-61b4d5de07b7)
-   - Create ANN to map the **Heat Transfer Rate** to various values of **Porosities $\varepsilon$**. Optimiser:- Adam Algorithm, Hidden layers = 1, Mean Suared error based loss function used
+   - Create ANN to map the **Heat Transfer Rate** to various values of **Porosities $\varepsilon$**. Optimiser:- **Adam Optimiser**, Hidden layers = 1, Mean Squared error based loss function used. The heat transfer rate is **Normalised** for training
 
      ![image](https://github.com/sanjeet178/TES_optimisation/assets/69724036/ffc3d873-7de0-41b9-9bb8-20c7c6a4fe2c)
      
    - Apply Genetic Algorithm to find the optimal value of $\varepsilon_1$, $\varepsilon_2$ and $\varepsilon_3$ such that enhanced heat transfer is achieved. Genetic Algorithm is a global optimiser that can be used to find the Global Minima of the problem.
+
+## Results
+![image](https://github.com/sanjeet178/TES_optimisation/assets/69724036/5a9d0ffb-3546-44da-ba53-ea54e1b4fb6e)
