@@ -19,5 +19,5 @@ It can be seen that the the highest heat transfer rate is obtained at $\varepsil
 ![image](https://github.com/sanjeet178/TES_optimisation/assets/69724036/5a9d0ffb-3546-44da-ba53-ea54e1b4fb6e)
 
 ## References
-   - Venkateshwar, K., Tasnim, S., Gadsden, S., & Mahmud, S. (2022, July). Artificial neural network-Genetic algorithm optimized graded metal foam. Journal of Energy Storage, 51, 104386. https://doi.org/10.1016/j.est.2022.104386
    - Patankar, S. (1980, January 1). Numerical Heat Transfer and Fluid Flow. https://doi.org/10.1604/9780891165224
+   - Pratama, D. A., Abo-Alsabeh, R. R., Bakar, M. A., Salhi, A., & Ibrahim, N. F. (2023, August). Solving partial differential equations with hybridized physic-informed neural network and optimization approach: Incorporating genetic algorithms and L-BFGS for improved accuracy. Alexandria Engineering Journal, 77, 205–226. https://doi.org/10.1016/j.aej.2023.06.047
